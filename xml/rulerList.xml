@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+   <mainContainer>
+        <Rulers>
+                <Ruler>
+                    <Title>Caliphs and Wazirs</Title>
+                    <rulerDetailsMain>
+                    <rulerDetails>
+                        <Dynasty>Rashidun Dynasty</Dynasty>
+                        <dynastyDate>A.H. 11–40 / A.D. 632–661</dynastyDate>
+                        <dataMain>
+                              <data>
+                                  <name>Abu Bakr</name>
+                                  <date>A.H. 11–13 / A.D. 632–634</date>
+                              </data>                     
+                              <data>
+                                  <name>Umar ibn al-Khattab</name>
+                                  <date>A.H. 13–23 / A.D. 634–644</date>
+                              </data>                  
+                             <data>
+                                  <name>'Uthman ibn 'Affan</name>
+                                  <date>A.H. 23–35 / A.D. 644–656</date>
+                              </data>
+                              <data>
+                                  <name>'Ali ibn Abi-Talib</name>
+                                  <date>A.H. 35–40 / A.D. 656–661</date>
+                              </data>
+                        </dataMain>
+                    </rulerDetails>             
+                      <rulerDetails>
+                        <Dynasty>Umayyad Dynasty</Dynasty>
+                        <dynastyDate>A.H. 41–132 / A.D. 661–750</dynastyDate>
+                        <dataMain>
+                              <data>
+                                  <name>Mu'awiya I</name>
+                                  <date>A.H. 41–60 / A.D. 661–680</date>
+                              </data>                     
+                              <data>
+                                  <name>Yazid I</name>
+                                  <date>A.H. 60–64 / A.D. 680–683</date>
+                              </data>                  
+                             <data>
+                                  <name>Mu'awiya II</name>
+                                  <date>A.H. 64 / A.D. 683–684</date>
+                              </data>
+                              <data>
+                                  <name>Marwan I</name>
+                                  <date>A.H. 64–65 / A.D. 684–685</date>
+                              </data>
+                                <data>
+                                  <name>'Abd al-Malik</name>
+                                  <date>A.H. 65–86 / A.D. 685–705</date>
+                              </data>                     
+                              <data>
+                                  <name>al-Walid I</name>
+                                  <date>A.H. 86–96 / A.D. 705–715</date>
+                              </data>                  
+                             <data>
+                                  <name>Sulayman</name>
+                                  <date>A.H. 96–99 / A.D. 715–717</date>
+                              </data>
+                              <data>
+                                  <name>'Umar II</name>
+                                  <date>A.H. 99–101 / A.D. 717–720</date>
+                              </data>
+                                <data>
+                                  <name>Yazid II</name>
+                                  <date>A.H. 101–105 / A.D. 720–724</date>
+                              </data>
+                              <data>
+                                  <name>Hisham</name>
+                                  <date>A.H. 105–125 / A.D. 724–743</date>
+                              </data>
+                                <data>
+                                  <name>al-Walid II</name>
+                                  <date>A.H. 125–126 / A.D. 743–744</date>
+                              </data>                     
+                              <data>
+                                  <name>Yazid III</name>
+                                  <date>A.H. 126 / A.D. 744</date>
+                              </data>                  
+                             <data>
+                                  <name>Ibrahim</name>
+                                  <date>A.H. 126 / A.D. 744</date>
+                              </data>
+                              <data>
+                                  <name>Marwan II</name>
+                                  <date>A.H. 127–132 / A.D. 744–750</date>
+                              </data>
+                        </dataMain>
+                    </rulerDetails>
+                    <rulerDetails>
+                             <Dynasty>Abbasid Dynasty (Iraq)</Dynasty>
+                             <dynastyDate>A.H. 132–656 / A.D. 750–1258</dynastyDate>
+                             <dataMain>
+                            <data>
+                                <name>al-Saffah</name>
+                                <date>A.H. 132–136 / A.D. 749–754</date>
+                             </data>
+                            <data>
+                                <name>al-Mansur</name>
+                                <date>A.H. 136–158 / A.D. 754–775</date>
+                            </data>
+                            <data>
+                                <name>al-Mahdi</name>
+                                <date>A.H. 158–169 / A.D. 775–785</date>
+                            </data>
+                            <data>
+                                <name>al-Hadi</name>
+                                <date>A.H. 169–170 / A.D. 785–786</date>
+                            </data>
+                            <data>
+                                <name>Harun al-Rashid</name>
+                                <date>A.H. 170–193 / A.D. 786–809</date>
+                            </data>
+                            <data>
+                                <name>al-Amin</name>
+                                <date>A.H. 193–198 / A.D. 809–813</date>
+                            </data>
+                            <data>
+                                <name>al-Ma'mun</name>
+                                <date>A.H. 198–218 / A.D. 813–833</date>
+                            </data>
+                            <data>
+                                <name>al-Mu'tasim</name>
+                                <date>A.H. 218–227 / A.D. 833–842</date>
+                            </data>
+                            <data>
+                                <name>al-Wathiq</name>
+                                <date>A.H. 227–232 / A.D. 842–847</date>
+                            </data>
+                            <data>
+                                <name>al-Mutawakkil</name>
+                                <date>A.H. 232–247 / A.D. 847–861</date>
+                            </data>
+                            <data>
+                                <name>al-Muntasir</name>
+                                <date>A.H. 247–248 / A.D. 861–862</date>
+                            </data>
+                            <data>
+                                <name>al-Musta'in</name>
+                                <date>A.H. 248–252 / A.D. 862–866</date>
+                            </data>
+                            <data>
+                                <name>al-Mu'tazz</name>
+                                <date>A.H. 252–255 / A.D. 866–869</date>
+                            </data>
+                            <data>
+                                <name>al-Muhtadi</name>
+                                <date>A.H. 255–256 / A.D. 869–870</date>
+                            </data>
+                            <data>
+                                <name>al-Mu'tamid</name>
+                                <date>A.H. 256–279 / A.D. 870–892</date>
+                            </data>
+                            <data>
+                                <name>al-Mu'tadid</name>
+                                <date>A.H. 279–289 / A.D. 892–902</date>
+                            </data>
+                            <data>
+                                <name>al-Muktafi</name>
+                                <date>A.H. 289–295 / A.D. 902–908</date>
+                            </data>
+                            <data>
+                                <name>al-Muqtadir</name>
+                                <date>A.H. 295–320 / A.D. 908–932</date>
+                            </data>
+                            <data>
+                                <name>al-Qahir</name>
+                                <date>A.H. 320–322 / A.D. 932–934</date>
+                            </data>
+                            <data>
+                                <name>al-Radi</name>
+                                <date>A.H. 322–329 / A.D. 934–940</date>
+                            </data>
+                            <data>
+                                <name>al-Muttaqi</name>
+                                <date>A.H. 329–333 / A.D. 940–944</date>
+                            </data>
+                            <data>
+                                <name>al-Mustakfi</name>
+                                <date>A.H. 333–334 / A.D. 944–946</date>
+                            </data>
+                            <data>
+                                <name>al-Muti'</name>
+                                <date>A.H. 334–363 / A.D. 946–974</date>
+                            </data>
+                            <data>
+                                <name>al-Ta'i'</name>
+                                <date>A.H. 363–381 / A.D. 974–991</date>
+                            </data>
+                            <data>
+                                <name>al-Qadir</name>
+                                <date>A.H. 381–422 / A.D. 991–1031</date>
+                            </data>
+                            <data>
+                                <name>al-Qa'im</name>
+                                <date>A.H. 422–467 / A.D. 1031–1075</date>
+                            </data>
+                            <data>
+                                <name>al-Muqtadi</name>
+                                <date>A.H. 467–487 / A.D. 1075–1094</date>
+                            </data>
+                            <data>
+                                <name>al-Mustazhir</name>
+                                <date>A.H. 487–512 / A.D. 1094–1118</date>
+                            </data>
+                            <data>
+                                <name>al-Mustarshid</name>
+                                <date>A.H. 512–529 / A.D. 1118–1135</date>
+                            </data>
+                            <data>
+                                <name>al-Rashid</name>
+                                <date>A.H. 529–530 / A.D. 1135–1136</date>
+                            </data>
+                            <data>
+                                <name>al-Muqtafi</name>
+                                <date>A.H. 530–555 / A.D. 1136–1160</date>
+                            </data>
+                            <data>
+                                <name>al-Mustanjid</name>
+                                <date>A.H. 555–566 / A.D. 1160–1170</date>
+                            </data>
+                            <data>
+                                <name>al-Mustadi'</name>
+                                <date>A.H. 566–575 / A.D. 1170–1180</date>
+                            </data>
+                            <data>
+                                <name>al-Nasir</name>
+                                <date>A.H. 575–622 / A.D. 1180–1225</date>
+                            </data>
+                            <data>
+                                <name>al-Zahir</name>
+                                <date>A.H. 622–623 / A.D. 1225–1226</date>
+                            </data>
+                            <data>
+                                <name>al-Mustansir</name>
+                                <date>A.H. 623–640 / A.D. 1226–1242</date>
+                            </data>
+                            <data>
+                                <name>al-Musta'sim</name>
+                                <date>A.H. 640–656 / A.D. 1242–1258</date>
+                            </data>
+                        </dataMain>
+                    </rulerDetails>
+                    <rulerDetails>
+                          <Dynasty>Barmakid Dynasty</Dynasty>
+                            <dynastyDate>ca. A.H. 165–221 / A.D. 781–835</dynastyDate>
+                              <dataMain>
+                        <data>
+                            <name>Barmak</name>
+                            <date>d. A.H. 165 / A.D. 781</date>
+                        </data>
+                        <data>
+                            <name>Khalid</name>
+                            <date></date>
+                        </data>
+                        <data>
+                            <name>Yahya</name>
+                            <date>d. A.H. 190 / A.D. 805</date>
+                        </data>
+                        <data>
+                            <name>Ja'far</name>
+                            <date>d. A.H. 187 / A.D. 803</date>
+                        </data>
+                        <data>
+                            <name>al-Fadl</name>
+                            <date>d. A.H. 193 / A.D. 808</date>
+                        </data>
+                        <data>
+                            <name>Musa</name>
+                            <date>d. A.H. 221 / A.D. 835</date>
+                        </data>
+                        <data>
+                            <name>'Imran</name>
+                            <date>?</date>
+                        </data>
+                    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Abbasid Dynasty (Egypt)</Dynasty>
+    <dynastyDate>A.H. 659–923 / A.D. 1261–1517</dynastyDate>
+    <dataMain>
+        <data>
+            <name>al-Mustansir</name>
+            <date>A.H. 659 / A.D. 1261</date>
+        </data>
+        <data>
+            <name>al-Hakim I</name>
+            <date>A.H. 660–701 / A.D. 1261–1302</date>
+        </data>
+        <data>
+            <name>al-Mustakfi I</name>
+            <date>A.H. 701–740 / A.D. 1302–1340</date>
+        </data>
+        <data>
+            <name>al-Wathiq I</name>
+            <date>A.H. 740–741 / A.D. 1340–1341</date>
+        </data>
+        <data>
+            <name>al-Hakim II</name>
+            <date>A.H. 741–753 / A.D. 1341–1352</date>
+        </data>
+        <data>
+            <name>al-Mu'tadid I</name>
+            <date>A.H. 753–763 / A.D. 1352–1362</date>
+        </data>
+        <data>
+            <name>al-Mutawakkil I (1st reign)</name>
+            <date>A.H. 763–779 / A.D. 1362–1377</date>
+        </data>
+        <data>
+            <name>al-Mu'tasim (1st reign)</name>
+            <date>A.H. 779 / A.D. 1377</date>
+        </data>
+        <data>
+            <name>al-Mutawakkil I (2nd reign)</name>
+            <date>A.H. 779–785 / A.D. 1377–1383</date>
+        </data>
+        <data>
+            <name>al-Wathiq II</name>
+            <date>A.H. 785–788 / A.D. 1383–1385</date>
+        </data>
+        <data>
+            <name>al-Mu'tasim (2nd reign)</name>
+            <date>A.H. 788–791 / A.D. 1385–1389</date>
+        </data>
+        <data>
+            <name>al-Mutawakkil I (3rd reign)</name>
+            <date>A.H. 791–808 / A.D. 1389–1406</date>
+        </data>
+        <data>
+            <name>al-Musta'in</name>
+            <date>A.H. 808–816 / A.D. 1406–1414</date>
+        </data>
+        <data>
+            <name>al-Mu'tadid II</name>
+            <date>A.H. 816–845 / A.D. 1414–1441</date>
+        </data>
+        <data>
+            <name>al-Mustakfi II</name>
+            <date>A.H. 845–855 / A.D. 1441–1451</date>
+        </data>
+        <data>
+            <name>al-Qa'im</name>
+            <date>A.H. 855–859 / A.D. 1451–1455</date>
+        </data>
+        <data>
+            <name>al-Mustanjid</name>
+            <date>A.H. 859–884 / A.D. 1455–1479</date>
+        </data>
+        <data>
+            <name>al-Mutawakkil II</name>
+            <date>A.H. 884–903 / A.D. 1479–1497</date>
+        </data>
+        <data>
+            <name>al-Mustamsik (1st reign)</name>
+            <date>A.H. 903–914 / A.D. 1497–1508</date>
+        </data>
+        <data>
+            <name>al-Mutawakkil III (1st reign)</name>
+            <date>A.H. 914–922 / A.D. 1508–1516</date>
+        </data>
+        <data>
+            <name>al-Mustamsik (2nd reign)</name>
+            <date>A.H. 922–923 / A.D. 1516–1517</date>
+        </data>
+        <data>
+            <name>al-Mutawakkil III (3rd reign)</name>
+            <date>A.H. 923 / A.D. 1517</date>
+        </data>
+    </dataMain>
+                </rulerDetails>
+                <rulerDetails>
+    <Dynasty>Selected early Shi'i rulers</Dynasty>
+    <dynastyDate>A.H. 35–ca. 264 / A.D. 656–ca. 878</dynastyDate>
+    <dataMain>
+        <data>
+            <name>'Ali</name>
+            <date>d. A.H. 40 / A.D. 661</date>
+        </data>
+        <data>
+            <name>Hasan</name>
+            <date>d. ca. A.H. 49 / A.D. 669</date>
+        </data>
+        <data>
+            <name>Husayn</name>
+            <date>d. A.H. 61 / A.D. 680</date>
+        </data>
+        <data>
+            <name>'Ali Zayn al-'Abidin</name>
+            <date>d. A.H. 94 / A.D. 712</date>
+        </data>
+        <data>
+            <name>Muhammad al-Baqir</name>
+            <date>d. A.H. 113 / A.D. 731</date>
+        </data>
+        <data>
+            <name>Ja'far al-Sadiq</name>
+            <date>d. A.H. 148 / A.D. 765</date>
+        </data>
+        <data>
+            <name>Musa al-Kazim</name>
+            <date>d. A.H. 183 / A.D. 799</date>
+        </data>
+        <data>
+            <name>'Ali al-Rida</name>
+            <date>d. A.H. 203 / A.D. 818</date>
+        </data>
+        <data>
+            <name>Muhammad al-Jawad</name>
+            <date>d. A.H. 220 / A.D. 835</date>
+        </data>
+        <data>
+            <name>'Ali al-Hadi</name>
+            <date>d. A.H. 254 / A.D. 868</date>
+        </data>
+        <data>
+            <name>Hasan al-'Askari</name>
+            <date>d. A.H. 260 / A.D. 874</date>
+        </data>
+        <data>
+            <name>Muhammad al-Mantazar</name>
+            <date>d. ca. A.H. 264 / A.D. 878</date>
+        </data>
+                </dataMain>
+            </rulerDetails>
+
+            </rulerDetailsMain>
+        </Ruler>
+         </Rulers>
+
+
+    <Rulers>
+        <Ruler>
+                    <Title>Egypt</Title>
+                    <rulerDetailsMain>
+                            <rulerDetails>
+                                    <Dynasty>Tulunid Dynasty</Dynasty>
+                                    <dynastyDate>A.H. 254–292 / A.D. 868–905</dynastyDate>
+                            <dataMain>
+                                <data>
+                                    <name>Ahmad ibn Tulun</name>
+                                    <date>A.H. 254–270 / A.D. 868–884</date>
+                                </data>
+                                <data>
+                                    <name>Khumarawayh</name>
+                                    <date>A.H. 270–282 / A.D. 884–896</date>
+                                </data>
+                                <data>
+                                    <name>Jaysh</name>
+                                    <date>A.H. 282–283 / A.D. 896</date>
+                                </data>
+                                <data>
+                                    <name>Harun</name>
+                                    <date>A.H. 283–292 / A.D. 896–905</date>
+                                </data>
+                                <data>
+                                    <name>Shayban</name>
+                                    <date>A.H. 292 / A.D. 905</date>
+                                </data>
+                            </dataMain>
+                        </rulerDetails>
+                        <rulerDetails>
+    <Dynasty>Ilkhshidid Dynasty</Dynasty>
+    <dynastyDate>A.H. 323–358 / A.D. 935–969</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Muhammad ibn Tughj</name>
+            <date>A.H. 323–334 / A.D. 935–946</date>
+        </data>
+        <data>
+            <name>Unujur</name>
+            <date>A.H. 334–349 / A.D. 946–960</date>
+        </data>
+        <data>
+            <name>'Ali</name>
+            <date>A.H. 349–355 / A.D. 960–966</date>
+        </data>
+        <data>
+            <name>Kafur</name>
+            <date>A.H. 355–357 / A.D. 966–968</date>
+        </data>
+        <data>
+            <name>Ahmad</name>
+            <date>A.H. 357–358 / A.D. 968–969</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Fatimid Dynasty</Dynasty>
+  <dynastyDate>A.H. 297–567 / A.D. 909–1171</dynastyDate>
+  <dataMain>
+    <data>
+      <name>'Ubaydullah al-Mahdi</name>
+      <date>A.H. 297–322 / A.D. 909–934</date>
+    </data>
+    <data>
+      <name>al-Qa'im</name>
+      <date>A.H. 322–334 / A.D. 934–946</date>
+    </data>
+    <data>
+      <name>al-Mansur</name>
+      <date>A.H. 334–341 / A.D. 946–953</date>
+    </data>
+    <data>
+      <name>al-Mu'izz</name>
+      <date>A.H. 341–365 / A.D. 953–975</date>
+    </data>
+    <data>
+      <name>al-'Aziz</name>
+      <date>A.H. 365–386 / A.D. 975–996</date>
+    </data>
+    <data>
+      <name>al-Hakim</name>
+      <date>A.H. 386–411 / A.D. 996–1021</date>
+    </data>
+    <data>
+      <name>al-Zahir</name>
+      <date>A.H. 411–427 / A.D. 1021–1036</date>
+    </data>
+    <data>
+      <name>al-Mustansir</name>
+      <date>A.H. 427–487 / A.D. 1036–1094</date>
+    </data>
+    <data>
+      <name>al-Musta'li</name>
+      <date>A.H. 487–495 / A.D. 1094–1101</date>
+    </data>
+    <data>
+      <name>al-Amir</name>
+      <date>A.H. 495–524 / A.D. 1101–1130</date>
+    </data>
+    <data>
+      <name>[interregnum]</name>
+      <date>A.H. 524–525 / A.D. 1130–1131</date>
+    </data>
+    <data>
+      <name>al-Hafiz</name>
+      <date>A.H. 525–544 / A.D. 1131–1149</date>
+    </data>
+    <data>
+      <name>al-Zafir</name>
+      <date>A.H. 544–549 / A.D. 1149–1154</date>
+    </data>
+    <data>
+      <name>al-Fa'iz</name>
+      <date>A.H. 549–555 / A.D. 1154–1160</date>
+    </data>
+    <data>
+      <name>al-'Adid</name>
+      <date>A.H. 555–567 / A.D. 1160–1171</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Ayyubid Dynasty (Egypt)</Dynasty>
+  <dynastyDate>A.H. 564–650 / A.D. 1169–1252</dynastyDate>
+  <dataMain>
+    <data>
+      <name>Salah al-Din (Saladin)</name>
+      <date>A.H. 564–589 / A.D. 1169–1193</date>
+    </data>
+    <data>
+      <name>al-'Aziz</name>
+      <date>A.H. 589–595 / A.D. 1193–1198</date>
+    </data>
+    <data>
+      <name>al-Mansur</name>
+      <date>A.H. 595–596 / A.D. 1198–1200</date>
+    </data>
+    <data>
+      <name>al-'Adil I</name>
+      <date>A.H. 596–615 / A.D. 1200–1218</date>
+    </data>
+    <data>
+      <name>al-Kamil</name>
+      <date>A.H. 615–635 / A.D. 1218–1238</date>
+    </data>
+    <data>
+      <name>al-'Adil II</name>
+      <date>A.H. 635–637 / A.D. 1238–1240</date>
+    </data>
+    <data>
+      <name>al-Salih Ayyub</name>
+      <date>A.H. 637–647 / A.D. 1240–1249</date>
+    </data>
+    <data>
+      <name>Turan Shah</name>
+      <date>A.H. 647–648 / A.D. 1249–1250</date>
+    </data>
+    <data>
+      <name>al-Ashraf II</name>
+      <date>A.H. 648–650 / A.D. 1250–1252</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Ayyubid Dynasty (Damascus)</Dynasty>
+  <dynastyDate>A.H. 582–658 / A.D. 1186–1260</dynastyDate>
+  <dataMain>
+    <data>
+      <name>al-Afdal</name>
+      <date>A.H. 582–92 / A.D. 1186–1196</date>
+    </data>
+    <data>
+      <name>al-'Adil I</name>
+      <date>A.H. 592–615 / A.D. 1196–1218</date>
+    </data>
+    <data>
+      <name>al-Mu'azzam</name>
+      <date>A.H. 615–24 / A.D. 1218–1227</date>
+    </data>
+    <data>
+      <name>al-Nasir Salah al-Din Da'ud</name>
+      <date>A.H. 624–26 / A.D. 1227–1229</date>
+    </data>
+    <data>
+      <name>al-Ashraf</name>
+      <date>A.H. 626–34 / A.D. 1229–1237</date>
+    </data>
+    <data>
+      <name>al-Salih Isma'il (1st reign)</name>
+      <date>A.H. 634–35 / A.D. 1237–1238</date>
+    </data>
+    <data>
+      <name>al-Kamil</name>
+      <date>A.H. 635 / A.D. 1238</date>
+    </data>
+    <data>
+      <name>al-'Adil II</name>
+      <date>A.H. 635–36 / A.D. 1238–1239</date>
+    </data>
+    <data>
+      <name>al-Salih Isma'il Najm al-Din Ayyub (1st reign)</name>
+      <date>A.H. 636–37 / A.D. 1239</date>
+    </data>
+    <data>
+      <name>al-Salih Isma'il (2nd reign)</name>
+      <date>A.H. 637–43 / A.D. 1239–1245</date>
+    </data>
+    <data>
+      <name>al-Salih Najm al-Din Ayyub (2nd reign)</name>
+      <date>A.H. 643–47 / A.D. 1245–1249</date>
+    </data>
+    <data>
+      <name>al-Mu'azzam Turan Shah</name>
+      <date>A.H. 647–48 / A.D. 1249–1250</date>
+    </data>
+    <data>
+      <name>al-Nasir Salah al-Din II</name>
+      <date>A.H. 648–58 / A.D. 1250–1260</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Ayyubid Dynasty (Aleppo)</Dynasty>
+  <dynastyDate>A.H. 579–658 / A.D. 1183–1260</dynastyDate>
+  <dataMain>
+    <data>
+      <name>al-'Adil I</name>
+      <date>A.H. 579–582 / A.D. 1183–1186</date>
+    </data>
+    <data>
+      <name>al-Zahir Ghiyath al-Din</name>
+      <date>A.H. 582–613 / A.D. 1186–1216</date>
+    </data>
+    <data>
+      <name>al-'Aziz Ghiyath al-Din</name>
+      <date>A.H. 613–634 / A.D. 1216–1237</date>
+    </data>
+    <data>
+      <name>al-Nasir Salah al-Din II</name>
+      <date>A.H. 634–658 / A.D. 1237–1260</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Ayyubid Dynasty (Yemen)</Dynasty>
+  <dynastyDate>A.H. 569–626 / A.D. 1174–1229</dynastyDate>
+  <dataMain>
+    <data>
+      <name>al-Mu'azzam Shams al-Din Turan Shah</name>
+      <date>A.H. 569–577 / A.D. 1174–1181</date>
+    </data>
+    <data>
+      <name>al-'Aziz Zahir al-Din Tughtigin</name>
+      <date>A.H. 577–593 / A.D. 1181–1197</date>
+    </data>
+    <data>
+      <name>Mu'izz al-Din Isma'il</name>
+      <date>A.H. 593–598 / A.D. 1197–1202</date>
+    </data>
+    <data>
+      <name>al-Nasir Ayyub</name>
+      <date>A.H. 598–611 / A.D. 1202–1214</date>
+    </data>
+    <data>
+      <name>al-Muzaffar Sulayman</name>
+      <date>A.H. 611–612 / A.D. 1214–1215</date>
+    </data>
+    <data>
+      <name>al-Mas'ud Salah al-Din</name>
+      <date>A.H. 612–626 / A.D. 1215–1229</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Mamluk Dynasty (Bahri)</Dynasty>
+  <dynastyDate>A.H. 648–792 / A.D. 1250–1390</dynastyDate>
+  <dataMain>
+    <data>
+      <name>Shajar al-Durr</name>
+      <date>A.H. 648 / A.D. 1250</date>
+    </data>
+    <data>
+      <name>Aybak</name>
+      <date>A.H. 648–655 / A.D. 1250–1257</date>
+    </data>
+    <data>
+      <name>'Ali</name>
+      <date>A.H. 655–657 / A.D. 1257–1259</date>
+    </data>
+    <data>
+      <name>Qutuz</name>
+      <date>A.H. 657–658 / A.D. 1259–1260</date>
+    </data>
+    <data>
+      <name>Baybars I</name>
+      <date>A.H. 658–676 / A.D. 1260–1277</date>
+    </data>
+    <data>
+      <name>Baraka Khan</name>
+      <date>A.H. 676–678 / A.D. 1277–1280</date>
+    </data>
+    <data>
+      <name>Salamish</name>
+      <date>A.H. 678 / A.D. 1280</date>
+    </data>
+    <data>
+      <name>Qala'un</name>
+      <date>A.H. 678–689 / A.D. 1280–1290</date>
+    </data>
+    <data>
+      <name>Khalil</name>
+      <date>A.H. 689–693 / A.D. 1290–1294</date>
+    </data>
+    <data>
+      <name>al-Nasir Muhammad (1st reign)</name>
+      <date>A.H. 693–694 / A.D. 1294–1295</date>
+    </data>
+    <data>
+      <name>Kitbugha</name>
+      <date>A.H. 694–696 / A.D. 1295–1297</date>
+    </data>
+    <data>
+      <name>Lajin</name>
+      <date>A.H. 696–698 / A.D. 1297–1299</date>
+    </data>
+    <data>
+      <name>al-Nasir Muhammad (2nd reign)</name>
+      <date>A.H. 698–708 / A.D. 1299–1309</date>
+    </data>
+    <data>
+      <name>Baybars II</name>
+      <date>A.H. 708–709 / A.D. 1309</date>
+    </data>
+    <data>
+      <name>al-Nasir Muhammad (3rd reign)</name>
+      <date>A.H. 709–741 / A.D. 1309–1340</date>
+    </data>
+    <data>
+      <name>Abu Bakr</name>
+      <date>A.H. 741–742 / A.D. 1340–1341</date>
+    </data>
+    <data>
+      <name>Kujuk</name>
+      <date>A.H. 742–743 / A.D. 1341–1342</date>
+    </data>
+    <data>
+      <name>Ahmad</name>
+      <date>A.H. 743 / A.D. 1342</date>
+    </data>
+    <data>
+      <name>Isma'il</name>
+      <date>A.H. 743–746 / A.D. 1342–1345</date>
+    </data>
+    <data>
+      <name>Sha'ban I</name>
+      <date>A.H. 746–747 / A.D. 1345–1346</date>
+    </data>
+    <data>
+      <name>Hajji I</name>
+      <date>A.H. 747–748 / A.D. 1346–1347</date>
+    </data>
+    <data>
+      <name>al-Nasir al-Hasan (1st reign)</name>
+      <date>A.H. 748–752 / A.D. 1347–1351</date>
+    </data>
+    <data>
+      <name>Salih</name>
+      <date>A.H. 752–755 / A.D. 1351–1354</date>
+    </data>
+    <data>
+      <name>al-Nasir al-Hasan (2nd reign)</name>
+      <date>A.H. 755–762 / A.D. 1354–1361</date>
+    </data>
+    <data>
+      <name>al-Mansur Muhammad</name>
+      <date>A.H. 762–764 / A.D. 1361–1363</date>
+    </data>
+    <data>
+      <name>Sha'ban II</name>
+      <date>A.H. 764–778 / A.D. 1363–1376</date>
+    </data>
+    <data>
+      <name>al-Mansur 'Ali</name>
+      <date>A.H. 778–783 / A.D. 1376–1382</date>
+    </data>
+    <data>
+      <name>al-Salih Hajji II</name>
+      <date>A.H. 783–784 / A.D. 1382</date>
+    </data>
+    <data>
+      <name>Barquq</name>
+      <date>A.H. 784–791 / A.D. 1382–1389</date>
+    </data>
+    <data>
+      <name>Hajji II (2nd reign)</name>
+      <date>A.H. 791 / A.D. 1389</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Mamluk Dynasty (Circassian [Burji])</Dynasty>
+  <dynastyDate>A.H. 784–922 / A.D. 1382–1517</dynastyDate>
+  <dataMain>
+    <data>
+      <name>Barquq (1st reign)</name>
+      <date>A.H. 784–791 / A.D. 1382–1389</date>
+    </data>
+    <data>
+      <name>Hajji I</name>
+      <date>[A.H. 791–792 / A.D. 1389–1390]</date>
+    </data>
+    <data>
+      <name>Barquq (2nd reign)</name>
+      <date>A.H. 792–801 / A.D. 1390–1399</date>
+    </data>
+    <data>
+      <name>Faraj (1st reign)</name>
+      <date>A.H. 801–808 / A.D. 1399–1405</date>
+    </data>
+    <data>
+      <name>al-Mansur 'Abd al-'Aziz</name>
+      <date>A.H. 808 / A.D. 1405</date>
+    </data>
+    <data>
+      <name>Faraj (2nd reign)</name>
+      <date>A.H. 808–815 / A.D. 1405–1412</date>
+    </data>
+    <data>
+      <name>al-'Adil al-Musta'in</name>
+      <date>A.H. 815 / A.D. 1412</date>
+    </data>
+    <data>
+      <name>al-Mu'ayyad Shaykh</name>
+      <date>A.H. 815–824 / A.D. 1412–1421</date>
+    </data>
+    <data>
+      <name>al-Muzaffar Ahmad</name>
+      <date>A.H. 824 / A.D. 1421</date>
+    </data>
+    <data>
+      <name>Tatar</name>
+      <date>A.H. 824 / A.D. 1421</date>
+    </data>
+    <data>
+      <name>al-Salih Muhammad</name>
+      <date>A.H. 824–825 / A.D. 1421–1422</date>
+    </data>
+    <data>
+      <name>Barsbay</name>
+      <date>A.H. 825–841 / A.D. 1422–1437</date>
+    </data>
+    <data>
+      <name>Yusuf</name>
+      <date>A.H. 841–842 / A.D. 1437–1438</date>
+    </data>
+    <data>
+      <name>al-Zahir Jaqmaq</name>
+      <date>A.H. 842–857 / A.D. 1438–1453</date>
+    </data>
+    <data>
+      <name>'Uthman</name>
+      <date>A.H. 857 / A.D. 1453</date>
+    </data>
+    <data>
+      <name>Inal</name>
+      <date>A.H. 857–865 / A.D. 1453–1461</date>
+    </data>
+    <data>
+      <name>al-Mu'ayyad Ahmad</name>
+      <date>A.H. 865 / A.D. 1461</date>
+    </data>
+    <data>
+      <name>Khushqadam</name>
+      <date>A.H. 865–872 / A.D. 1461–1467</date>
+    </data>
+    <data>
+      <name>Bilbay</name>
+      <date>A.H. 872 / A.D. 1467–1468</date>
+    </data>
+    <data>
+      <name>Timurbugha</name>
+      <date>A.H. 872 / A.D. 1468</date>
+    </data>
+    <data>
+      <name>al-Ashraf Qayitbay</name>
+      <date>A.H. 872–901 / A.D. 1468–1496</date>
+    </data>
+    <data>
+      <name>al-Nasir Muhammad</name>
+      <date>A.H. 901–903 / A.D. 1496–1498</date>
+    </data>
+    <data>
+      <name>Qansuh</name>
+      <date>A.H. 903–905 / A.D. 1498–1500</date>
+    </data>
+    <data>
+      <name>Janbalat</name>
+      <date>A.H. 905–906 / A.D. 1500–1501</date>
+    </data>
+    <data>
+      <name>al-'Adil Tuman Bay</name>
+      <date>A.H. 906 / A.D. 1501</date>
+    </data>
+    <data>
+      <name>Qansuh al-Ghawri</name>
+      <date>A.H. 906–922 / A.D. 1501–1517</date>
+    </data>
+    <data>
+      <name>al-Ashraf Tuman Bay</name>
+      <date>A.H. 922 / A.D. 1517</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Muhammad 'Ali Dynasty</Dynasty>
+  <dynastyDate>A.H. 1220–1372 / A.D. 1805–1953</dynastyDate>
+  <dataMain>
+    <data>
+      <name>Muhammad 'Ali</name>
+      <date>A.H. 1220–1264 / A.D. 1805–1848</date>
+    </data>
+    <data>
+      <name>Ibrahim</name>
+      <date>A.H. 1264 / A.D. 1848</date>
+    </data>
+    <data>
+      <name>'Abbas I</name>
+      <date>A.H. 1264–1270 / A.D. 1848–1854</date>
+    </data>
+    <data>
+      <name>Sa'id</name>
+      <date>A.H. 1270–1280 / A.D. 1854–1863</date>
+    </data>
+    <data>
+      <name>Isma'il</name>
+      <date>A.H. 1280–1296 / A.D. 1863–1879</date>
+    </data>
+    <data>
+      <name>Tawfiq</name>
+      <date>A.H. 1296–1309 / A.D. 1879–1892</date>
+    </data>
+    <data>
+      <name>'Abbas II Hilmi</name>
+      <date>A.H. 1309–1333 / A.D. 1892–1914</date>
+    </data>
+    <data>
+      <name>Husayn Kamil</name>
+      <date>A.H. 1333–1335 / A.D. 1914–1917</date>
+    </data>
+    <data>
+      <name>Ahmad Fu'ad I</name>
+      <date>A.H. 1335–1355 / A.D. 1917–1936</date>
+    </data>
+    <data>
+      <name>Faruq</name>
+      <date>A.H. 1355–1371 / A.D. 1936–1952</date>
+    </data>
+    <data>
+      <name>Fu'ad II</name>
+      <date>A.H. 1371–1372 / A.D. 1952–1953</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+
+                        </rulerDetailsMain>
+                    </Ruler>
+                    </Rulers>   
+
+
+                      <Rulers>
+                          <Ruler>
+                          <Title>Arabian Peninsula</Title>
+                             <rulerDetailsMain>
+
+                             <rulerDetails>
+  <Dynasty>Sulayhid Dynasty (Yemen)</Dynasty>
+  <dynastyDate>A.H. 439–532 / A.D. 1047–1138</dynastyDate>
+  <dataMain>
+    <data>
+      <name>'Ali ibn Muhammad</name>
+      <date>A.H. 439–459 / A.D. 1047–1067</date>
+    </data>
+    <data>
+      <name>al-Mukarram Ahmad</name>
+      <date>A.H. 459–477 / A.D. 1067–1084</date>
+    </data>
+    <data>
+      <name>al-Mukarram 'Ali</name>
+      <date>A.H. 477–484 / A.D. 1084–1091</date>
+    </data>
+    <data>
+      <name>al-Mansur Saba'</name>
+      <date>A.H. 484–492 / A.D. 1091–1099</date>
+    </data>
+    <data>
+      <name>al-Sayyida Arwa</name>
+      <date>A.H. 492–532 / A.D. 1099–1138</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Rasulid Dynasty (Yemen)</Dynasty>
+  <dynastyDate>A.H. 626–858 / A.D. 1229–1454</dynastyDate>
+  <dataMain>
+    <data>
+      <name>al-Mansur 'Umar I</name>
+      <date>A.H. 626–647 / A.D. 1229–1250</date>
+    </data>
+    <data>
+      <name>al-Muzaffar Yusuf I</name>
+      <date>A.H. 647–694 / A.D. 1250–1295</date>
+    </data>
+    <data>
+      <name>al-Ashraf 'Umar II</name>
+      <date>A.H. 694–696 / A.D. 1295–1296</date>
+    </data>
+    <data>
+      <name>al-Mu'ayyad Da'ud</name>
+      <date>A.H. 696–721 / A.D. 1296–1322</date>
+    </data>
+    <data>
+      <name>al-Mujahid 'Ali</name>
+      <date>A.H. 721–764 / A.D. 1322–1363</date>
+    </data>
+    <data>
+      <name>al-Afdal al-'Abbas</name>
+      <date>A.H. 764–778 / A.D. 1363–1377</date>
+    </data>
+    <data>
+      <name>al-Ashraf Isma'il I</name>
+      <date>A.H. 778–803 / A.D. 1377–1400</date>
+    </data>
+    <data>
+      <name>al-Nasir Ahmad</name>
+      <date>A.H. 803–827 / A.D. 1400–1424</date>
+    </data>
+    <data>
+      <name>al-Mansur 'Abdullah</name>
+      <date>A.H. 827–830 / A.D. 1424–1427</date>
+    </data>
+    <data>
+      <name>al-Ashraf Isma'il II</name>
+      <date>A.H. 830–831 / A.D. 1427–1428</date>
+    </data>
+    <data>
+      <name>al-Zahir Yahya</name>
+      <date>A.H. 831–842 / A.D. 1428–1439</date>
+    </data>
+    <data>
+      <name>al-Ashraf Isma'il III</name>
+      <date>A.H. 842–845 / A.D. 1439–1442</date>
+    </data>
+    <data>
+      <name>al-Muzaffar Yusuf II</name>
+      <date>A.H. 845 / A.D. 1442</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>Qasimid Zaydi Imams</Dynasty>
+  <dynastyDate>A.H. 1000–1382 / A.D. 1592–1962</dynastyDate>
+  <dataMain>
+    <data>
+      <name>al-Qasim al-Mansur</name>
+      <date>A.H. 1000–1029 / A.D. 1592–1620</date>
+    </data>
+    <data>
+      <name>Muhammad al-Mu'ayyad I</name>
+      <date>A.H. 1029–1054 / A.D. 1620–1644</date>
+    </data>
+    <data>
+      <name>Isma'il al-Mutawakkil</name>
+      <date>A.H. 1054–1087 / A.D. 1644–1676</date>
+    </data>
+    <data>
+      <name>Muhammad al-Mu'ayyad II</name>
+      <date>A.H. 1087–1092 / A.D. 1676–1681</date>
+    </data>
+    <data>
+      <name>Muhammad al-Hadi</name>
+      <date>A.H. 1092–1097 / A.D. 1681–1686</date>
+    </data>
+    <data>
+      <name>Muhammad al-Mahdi</name>
+      <date>A.H. 1097–1128 / A.D. 1686–1716</date>
+    </data>
+    <data>
+      <name>al-Qasim al-Mutawakkil</name>
+      <date>A.H. 1128–1139 / A.D. 1716–1726</date>
+    </data>
+    <data>
+      <name>al-Husayn al-Mansur (1st reign)</name>
+      <date>A.H. 1139 / A.D. 1726</date>
+    </data>
+    <data>
+      <name>Muhammad al-Hadi al-Majid</name>
+      <date>A.H. 1139–1140 / A.D. 1726–1728</date>
+    </data>
+    <data>
+      <name>al-Husayn al-Mansur (2nd reign)</name>
+      <date>A.H. 1140–1160 / A.D. 1728–1747</date>
+    </data>
+    <data>
+      <name>al-'Abbas al-Mahdi</name>
+      <date>A.H. 1160–1190 / A.D. 1747–1776</date>
+    </data>
+    <data>
+      <name>'Ali al-Mansur (1st reign)</name>
+      <date>A.H. 1190–1221 / A.D. 1776–1806</date>
+    </data>
+    <data>
+      <name>Ahmad al-Mahdi</name>
+      <date>A.H. 1221 / A.D. 1806</date>
+    </data>
+    <data>
+      <name>'Ali al-Mansur (2nd reign)</name>
+      <date></date>
+    </data>
+    <data>
+      <name>al-Qasim al-Mahdi</name>
+      <date>A.H. 1257–1261 / A.D. 1841–1845</date>
+    </data>
+    <data>
+      <name>Muhammad Yahya</name>
+      <date>A.H. 1261–1289 / A.D. 1845–1872</date>
+    </data>
+    <data>
+      <name>Hamid al-Din Yahya</name>
+      <date>A.H. 1308–1322 / A.D. 1890–1904</date>
+    </data>
+    <data>
+      <name>Yahya Mahmud al-Mutawakkil</name>
+      <date>A.H. 1322–1367 / A.D. 1904–1948</date>
+    </data>
+    <data>
+      <name>Sayf al-Islam Ahmad</name>
+      <date>A.H. 1367–1382 / A.D. 1948–1962</date>
+    </data>
+    <data>
+      <name>Muhammad Badr</name>
+      <date>A.H. 1382 / A.D. 1962</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+<rulerDetails>
+  <Dynasty>al-Sa'ud Dynasty</Dynasty>
+  <dynastyDate>A.H. 1159–present / A.D. 1746–present</dynastyDate>
+  <dataMain>
+    <data>
+      <name>Muhammad ibn Sa'ud</name>
+      <date>A.H. 1159–1179 / A.D. 1746–1765</date>
+    </data>
+    <data>
+      <name>'Abd al-'Aziz I</name>
+      <date>A.H. 1179–1218 / A.D. 1765–1803</date>
+    </data>
+    <data>
+      <name>Sa'ud ibn 'Abd al-'Aziz</name>
+      <date>A.H. 1218–1229 / A.D. 1803–1814</date>
+    </data>
+    <data>
+      <name>'Abdullah ibn Sa'ud</name>
+      <date>A.H. 1229–1233 / A.D. 1814–1818</date>
+    </data>
+    <data>
+      <name>Turki</name>
+      <date>A.H. 1238–1249 / A.D. 1823–1834</date>
+    </data>
+    <data>
+      <name>Faysal I (1st reign)</name>
+      <date>A.H. 1249–1253 / A.D. 1834–1837</date>
+    </data>
+    <data>
+      <name>Khalid ibn Sa'ud</name>
+      <date>A.H. 1253–1257 / A.D. 1837–1841</date>
+    </data>
+    <data>
+      <name>'Abdullah II ibn Thunayyan</name>
+      <date>A.H. 1257–1259 / A.D. 1841–1843</date>
+    </data>
+    <data>
+      <name>Faysal I (2nd reign)</name>
+      <date>A.H. 1259–1282 / A.D. 1843–1865</date>
+    </data>
+    <data>
+      <name>'Abdullah III ibn Faysal (1st reign)</name>
+      <date>A.H. 1282–1287 / A.D. 1865–1871</date>
+    </data>
+    <data>
+      <name>Sa'ud ibn Faysal</name>
+      <date>A.H. 1287–1291 / A.D. 1871–1874</date>
+    </data>
+    <data>
+      <name>'Abdullah III ibn Faysal (2nd reign)</name>
+      <date>A.H. 1291–1305 / A.D. 1874–1887</date>
+    </data>
+    <data>
+      <name>'Abd al-Rahman ibn Faysal (Rashid gov)</name>
+      <date>A.H. 1305–1308 / A.D. 1887–1891</date>
+    </data>
+    <data>
+      <name>Rashidi occupation of Riyadh</name>
+      <date>A.H. 1308–1319 / A.D. 1891–1902</date>
+    </data>
+    <data>
+      <name>'Abd al-'Aziz II</name>
+      <date>A.H. 1319–1373 / A.D. 1902–1953</date>
+    </data>
+    <data>
+      <name>Sa'ud</name>
+      <date>A.H. 1373–1384 / A.D. 1953–1964</date>
+    </data>
+    <data>
+      <name>Faysal II</name>
+      <date>A.H. 1384–1395 / A.D. 1964–1975</date>
+    </data>
+    <data>
+      <name>Khalid</name>
+      <date>A.H. 1395–1402 / A.D. 1975–1982</date>
+    </data>
+    <data>
+      <name>Fahd</name>
+      <date>A.H. 1402–present / A.D. 1982–present</date>
+    </data>
+  </dataMain>
+</rulerDetails>
+
+                          </rulerDetailsMain>
+                    </Ruler>
+                    </Rulers>   
+<Rulers>
+    <Ruler>
+        <Title>Iraq and Syria (before the Seljuqs)</Title>
+        <rulerDetailsMain>
+           <rulerDetails>
+    <Dynasty>Hamdanid Dynasty (Mosul)</Dynasty>
+    <dynastyDate>A.H. 317–391 / A.D. 927–1000</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Nasir al-Dawla al-Hasan</name>
+            <date>A.H. 317–358 / A.D. 929–969</date>
+        </data>
+        <data>
+            <name>'Uddat al-Dawla Abu Taghlib</name>
+            <date>A.H. 358–379 / A.D. 969–989</date>
+        </data>
+        <data>
+            <name>Ibrahim / al-Husayn (joint rule)</name>
+            <date>A.H. 379–391 / A.D. 989–1000</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Hamdanid Dynasty (Aleppo)</Dynasty>
+    <dynastyDate>A.H. 333–394 / A.D. 945–1004</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Sayf al-Dawla 'Ali I</name>
+            <date>A.H. 333–356 / A.D. 945–967</date>
+        </data>
+        <data>
+            <name>Sa'd al-Dawla Sharif I</name>
+            <date>A.H. 356–381 / A.D. 967–991</date>
+        </data>
+        <data>
+            <name>Sa'id al-Dawla Sa'id</name>
+            <date>A.H. 381–392 / A.D. 991–1002</date>
+        </data>
+        <data>
+            <name>'Ali II</name>
+            <date>A.H. 392–394 / A.D. 1002–1004</date>
+        </data>
+        <data>
+            <name>Sharif II</name>
+            <date>A.H. 394 / A.D. 1004</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+
+        </rulerDetailsMain>
+    </Ruler>
+</Rulers>
+
+
+<Rulers>
+    <Ruler>
+        <Title>Iran (before the Seljuqs)</Title>
+        <rulerDetailsMain>
+        <rulerDetails>
+    <Dynasty>Tahirid Dynasty</Dynasty>
+    <dynastyDate>A.H. 205–259 / A.D. 821–873</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Tahir I ibn al-Husayn</name>
+            <date>A.H. 205–207 / A.D. 821–822</date>
+        </data>
+        <data>
+            <name>Talha</name>
+            <date>A.H. 207–213 / A.D. 822–828</date>
+        </data>
+        <data>
+            <name>'Abdullah</name>
+            <date>A.H. 213–230 / A.D. 828–845</date>
+        </data>
+        <data>
+            <name>Tahir II</name>
+            <date>A.H. 230–248 / A.D. 845–862</date>
+        </data>
+        <data>
+            <name>Muhammad</name>
+            <date>A.H. 248–259 / A.D. 862–873</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Samanid Dynasty</Dynasty>
+    <dynastyDate>A.H. 204–395 / A.D. 819–1005</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Ahmad I ibn Asad ibn Saman</name>
+            <date>A.H. 204–250 / A.D. 819–864</date>
+        </data>
+        <data>
+            <name>Nasr I ibn Ahmad</name>
+            <date>A.H. 250–279 / A.D. 864–892</date>
+        </data>
+        <data>
+            <name>Isma'il I ibn Ahmad</name>
+            <date>A.H. 279–295 / A.D. 892–907</date>
+        </data>
+        <data>
+            <name>Ahmad II ibn Isma'il</name>
+            <date>A.H. 295–301 / A.D. 907–914</date>
+        </data>
+        <data>
+            <name>al-Amir al-Sa'id Nasr II</name>
+            <date>A.H. 301–331 / A.D. 914–943</date>
+        </data>
+        <data>
+            <name>al-Amir al-Hamid Nuh I</name>
+            <date>A.H. 331–343 / A.D. 943–954</date>
+        </data>
+        <data>
+            <name>al-Amir al-Mu'ayyad 'Abd al-Malik I</name>
+            <date>A.H. 343–350 / A.D. 954–961</date>
+        </data>
+        <data>
+            <name>al-Amir al-Sadid Mansur I</name>
+            <date>A.H. 350–365 / A.D. 961–976</date>
+        </data>
+        <data>
+            <name>al-Amir al-Rida Nuh II</name>
+            <date>A.H. 365–387 / A.D. 976–997</date>
+        </data>
+        <data>
+            <name>Mansur II</name>
+            <date>A.H. 387–389 / A.D. 997–999</date>
+        </data>
+        <data>
+            <name>'Abd al-Malik II</name>
+            <date>A.H. 389–390 / A.D. 999–1000</date>
+        </data>
+        <data>
+            <name>Isma'il II al-Muntasir</name>
+            <date>A.H. 390–395 / A.D. 1000–1005</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Saffarid Dynasty</Dynasty>
+    <dynastyDate>A.H. 253–ca. 900 / A.D. 867–ca. 1495</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Ya'qub ibn Layth al-Saffar</name>
+            <date>A.H. 253–265 / A.D. 867–879</date>
+        </data>
+        <data>
+            <name>'Amr ibn Layth</name>
+            <date>A.H. 265–288 / A.D. 879–901</date>
+        </data>
+        <data>
+            <name>Tahir ibn Muhammad ibn 'Amr</name>
+            <date>A.H. 288–296 / A.D. 901–908</date>
+        </data>
+        <data>
+            <name>Layth ibn 'Ali</name>
+            <date>A.H. 296–298 / A.D. 908–910</date>
+        </data>
+        <data>
+            <name>Muhammad ibn 'Ali</name>
+            <date>A.H. 298 / A.D. 910</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Buyid Dynasty (Iraq)</Dynasty>
+    <dynastyDate>A.H. 334–447 / A.D. 945–1055</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Mu'izz al-Dawla Ahmad</name>
+            <date>A.H. 334–356 / A.D. 945–967</date>
+        </data>
+        <data>
+            <name>'Izz al-Dawla Bakhtiyar</name>
+            <date>A.H. 356–367 / A.D. 967–978</date>
+        </data>
+        <data>
+            <name>'Adud al-Dawla Fana-Khusraw</name>
+            <date>A.H. 367–372 / A.D. 978–982</date>
+        </data>
+        <data>
+            <name>Samsam al-Dawla Marzuban</name>
+            <date>A.H. 372–376 / A.D. 983–987</date>
+        </data>
+        <data>
+            <name>Sharaf al-Dawla Shirzil</name>
+            <date>A.H. 376–379 / A.D. 987–989</date>
+        </data>
+        <data>
+            <name>Baha' al-Dawla Firuz</name>
+            <date>A.H. 379–403 / A.D. 989–1012</date>
+        </data>
+        <data>
+            <name>Sultan al-Dawla</name>
+            <date>A.H. 403–412 / A.D. 1012–1021</date>
+        </data>
+        <data>
+            <name>Musharrif al-Dawla</name>
+            <date>A.H. 412–416 / A.D. 1021–1025</date>
+        </data>
+        <data>
+            <name>Jalal al-Dawla Shirzil</name>
+            <date>A.H. 416–435 / A.D. 1025–1044</date>
+        </data>
+        <data>
+            <name>'Imad al-Din al-Marzuban</name>
+            <date>A.H. 435–440 / A.D. 1044–1048</date>
+        </data>
+        <data>
+            <name>al-Malik al-Rahim Khusraw-Firuz</name>
+            <date>A.H. 440–447 / A.D. 1048–1055</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Buyid Dynasty (Fars and Khuzistan)</Dynasty>
+    <dynastyDate>A.H. 322–454 / A.D. 934–1062</dynastyDate>
+    <dataMain>
+        <data>
+            <name>'Imad al-Dawla 'Ali</name>
+            <date>A.H. 322–338 / A.D. 934–949</date>
+        </data>
+        <data>
+            <name>'Adud al-Dawla Fana-Khusraw</name>
+            <date>A.H. 338–372 / A.D. 949–983</date>
+        </data>
+        <data>
+            <name>Sharaf al-Dawla Shirzil</name>
+            <date>A.H. 372–380 / A.D. 983–990</date>
+        </data>
+        <data>
+            <name>Samsam al-Dawla Marzuban</name>
+            <date>A.H. 380–388 / A.D. 990–998</date>
+        </data>
+        <data>
+            <name>Baha' al-Dawla Firuz</name>
+            <date>A.H. 388–403 / A.D. 998–1012</date>
+        </data>
+        <data>
+            <name>Sultan al-Dawla</name>
+            <date>A.H. 403–412 / A.D. 1012–1021</date>
+        </data>
+        <data>
+            <name>Musharrif al-Dawla Hasan</name>
+            <date>A.H. 412–415 / A.D. 1021–1024</date>
+        </data>
+        <data>
+            <name>'Imad al-Din Marzuban</name>
+            <date>A.H. 415–440 / A.D. 1024–1048</date>
+        </data>
+        <data>
+            <name>al-Malik al-Rahim Khusraw-Firuz</name>
+            <date>A.H. 440–447 / A.D. 1048–1055</date>
+        </data>
+        <data>
+            <name>Fulad-Sutun (Fars only)</name>
+            <date>A.H. 447–454 / A.D. 1055–1062</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Buyid Dynasty (Kirman)</Dynasty>
+    <dynastyDate>A.H. 324–440 / A.D. 936–1048</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Mu'izz al-Dawla Ahmad</name>
+            <date>A.H. 324–338 / A.D. 936–949</date>
+        </data>
+        <data>
+            <name>'Adud al-Dawla Fana-Khusraw</name>
+            <date>A.H. 338–372 / A.D. 949–983</date>
+        </data>
+        <data>
+            <name>Samsam al-Dawla Marzuban</name>
+            <date>A.H. 372–388 / A.D. 983–998</date>
+        </data>
+        <data>
+            <name>Baha' al-Dawla Firuz</name>
+            <date>A.H. 388–403 / A.D. 998–1012</date>
+        </data>
+        <data>
+            <name>Qawam al-Dawla</name>
+            <date>A.H. 403–419 / A.D. 1012–1028</date>
+        </data>
+        <data>
+            <name>'Imad al-Din Marzuban</name>
+            <date>A.H. 419–440 / A.D. 1028–1048</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Buyid Dynasty (Jibal)</Dynasty>
+    <dynastyDate>A.H. 320–366 / A.D. 932–977</dynastyDate>
+    <dataMain>
+        <data>
+            <name>'Imad al-Dawla 'Ali</name>
+            <date>A.H. 320–335 / A.D. 932–947</date>
+        </data>
+        <data>
+            <name>Rukn al-Dawla Hasan</name>
+            <date>A.H. 335–366 / A.D. 947–977</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Buyid Dynasty (Hamadan and Isfahan)</Dynasty>
+    <dynastyDate>A.H. 366–419 / A.D. 977–1028</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Mu'ayyid al-Dawla Buya</name>
+            <date>A.H. 366–373 / A.D. 977–983</date>
+        </data>
+        <data>
+            <name>Fakhr al-Dawla 'Ali</name>
+            <date>A.H. 373–387 / A.D. 983–997</date>
+        </data>
+        <data>
+            <name>Shams al-Dawla</name>
+            <date>A.H. 387–412 / A.D. 997–1021</date>
+        </data>
+        <data>
+            <name>Sama' al-Dawla</name>
+            <date>A.H. 412–ca. 419 / A.D. 1021–ca. 1028</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Buyid Dynasty (Rayy)</Dynasty>
+    <dynastyDate>A.H. 366–420 / A.D. 977–1029</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Fakhr al-Dawla 'Ali</name>
+            <date>A.H. 366–387 / A.D. 977–997</date>
+        </data>
+        <data>
+            <name>Majd al-Dawla Rustam</name>
+            <date>A.H. 387–420 / A.D. 997–1029</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+<rulerDetails>
+    <Dynasty>Khwarazmshah Dynasty (Anushtigin Line)</Dynasty>
+    <dynastyDate>A.H. 470–624 / A.D. 1077–1231</dynastyDate>
+    <dataMain>
+        <data>
+            <name>Anushtigin Gharcha'i</name>
+            <date>A.H. ca. 470–490 / A.D. ca. 1077–1097</date>
+        </data>
+        <data>
+            <name>Qutb al-Din Muhammad</name>
+            <date>A.H. 490–521 / A.D. 1097–1127</date>
+        </data>
+        <data>
+            <name>'Ala' al-Din Atsiz</name>
+            <date>A.H. 521–551 / A.D. 1127–1156</date>
+        </data>
+        <data>
+            <name>Il-Arslan</name>
+            <date>A.H. 551–567 / A.D. 1156–1172</date>
+        </data>
+        <data>
+            <name>'Ala' al-Din Tekish</name>
+            <date>A.H. 567 / A.D. 1172</date>
+        </data>
+        <data>
+            <name>'Ala' al-Din Muhammad</name>
+            <date>A.H. 596–617 / A.D. 1200–1220</date>
+        </data>
+        <data>
+            <name>Jalal al-Din</name>
+            <date>A.H. 617–628 / A.D. 1220–1231</date>
+        </data>
+    </dataMain>
+</rulerDetails>
+
+            </rulerDetailsMain>
+    </Ruler>
+</Rulers>
+
+              
+                    </mainContainer>
+
+
+
+
+
+
+
+
+
+
